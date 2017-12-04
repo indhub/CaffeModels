@@ -20,7 +20,7 @@ display: 100
 max_iter: 10000
 # snapshot intermediate results
 snapshot: 5000
-snapshot_prefix: "examples/mnist/lenet_rmsprop"
+snapshot_prefix: "snapshots/lenet_rmsprop"
 # solver mode: CPU or GPU
 solver_mode: GPU
 type: "RMSProp"
